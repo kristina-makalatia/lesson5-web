@@ -1,0 +1,21 @@
+.block {
+  width: 257px;
+  height: 335px;
+  background-color: #fff;
+  /* padding: 29px 0 0 22px; */
+}
+.section-bg {
+  background-color: #f9f8f8;
+  padding: 30px 0;
+}
+.text-block {
+  text-align: center;
+  width: 184px;
+  margin: 0 auto;
+  font-size: 18px;
+}
+.block-title {
+  padding-top: 29px;
+  padding-left: 22px;
+  margin-bottom: 20px;
+}
